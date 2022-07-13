@@ -1,2 +1,2 @@
-# Hotel_POO
-Small hotel project using POO
+# Hotel_OOP
+Small hotel project using OOP
